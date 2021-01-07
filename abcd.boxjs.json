@@ -33,6 +33,6 @@
     ],
     "repo": "abcd",
     "icons": ["abcd.jpg", "abcd.jpg"],
-    "script": "abcd.js"
+    "script": "https://raw.githubusercontent.com/WW810713/-/main/qqreadnode.js"
   }]
 }
